@@ -21,7 +21,7 @@ nr=i;
 }
 }
 }
-if(resault=n)break;
+if(resault==n)break;
 }
 cout<<"number of ansewrs for equation:"<<nr;
 getch();
